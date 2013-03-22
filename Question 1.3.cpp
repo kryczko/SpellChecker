@@ -122,7 +122,6 @@ while (!inputfile.eof())
 
 inputfile.close();
 cout << "\n";
-system("pause");
 return 0;
 }
 
